@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="redcolor" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#ff0000</item>
+    </style>
+    <style name="bigfont" parent="redcolor">
+        <item name="android:textSize">52dp</item>
+    </style>
+</resources>
