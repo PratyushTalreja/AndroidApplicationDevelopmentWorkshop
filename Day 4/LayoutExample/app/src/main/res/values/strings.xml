@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutExample</string>
+    <string-array name="restaurantname">
+        <item>Taj</item>
+        <item>Hyatt</item>
+        <item>JWMarriott</item>
+    </string-array>
+</resources>

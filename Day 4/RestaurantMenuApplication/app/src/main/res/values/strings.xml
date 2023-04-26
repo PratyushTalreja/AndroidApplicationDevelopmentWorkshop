@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RestaurantMenuApplication</string>
+    <string-array name="restaurantname">
+        <item>Taj</item>
+        <item>Hyatt</item>
+        <item>JWMarriott</item>
+    </string-array>
+    <string-array name="tajmenu">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Carrot</item>
+        <item>Avacado</item>
+    </string-array>
+    <string-array name="hyattmenu">
+        <item>Rice</item>
+        <item>Dal</item>
+        <item>Gulab Jamun</item>
+        <item>Tomato</item>
+    </string-array>
+    <string-array name="jwmarriottmenu">
+        <item>Chicken</item>
+        <item>Brinjal</item>
+        <item>Dosa</item>
+        <item>Idli</item>
+    </string-array>
+</resources>
