@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     EditText city, lat, lon, temp;
     Button search, get;
 
-    final String API_KEY = "acd14973282eeb32c1b76934c77f652c";
+    final String API_KEY = "your_api_key";
 
     RequestQueue requestQueue;
     StringRequest stringRequest;
